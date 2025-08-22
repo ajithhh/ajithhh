@@ -57,12 +57,12 @@
 ---
 
 ## 📊 GitHub Stats  
-![Ajith's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)  
+![Ajith's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajithhh&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajithhh&layout=compact&theme=radical)  
 
 ---
 
 ## 🤝 Let’s Connect  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/ajit)  
 - Portfolio: [yourportfolio.com](https://yourportfolio.com)  
 - Email: yourname@email.com  
