@@ -63,6 +63,6 @@
 ---
 
 ## 🤝 Let’s Connect  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/ajit)  
+- [Linkedin](https://linkedin.com/in/ajit)  
 - Portfolio: [yourportfolio.com](https://yourportfolio.com)  
 - Email: yourname@email.com  
